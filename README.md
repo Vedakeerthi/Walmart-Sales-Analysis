@@ -12,3 +12,11 @@ A decomposition tree is used to have a overall visual of the walmart dataset whe
 
 And overall all the visualization have been made over the dataset, and finally two slicers are created, one for the category and the other for the sub category, and as you can if we alter the slicers we can 
 see that there is an impact over all the other charts, so concluding this power bi is a very powerful tool for data visualization and very user friendly.
+
+## License
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Vedakeerthi/FLIGHT_FARE_PREDICTION/blob/main/LICENSE)
+
+## Technology Used
+
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/> </a>
