@@ -1,4 +1,4 @@
-# Power-BI
+# Walmart Store Analysis
 
 Data analysis have been made on the walmart data using the microsoft Power BI tool for data visualization, where the different features of the walmart data are viewed with various powerful graphs. Power-BI is considered as a far most powerful visualization tool when compared to matplotlib or seaborn. 
 
