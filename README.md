@@ -33,7 +33,7 @@ And overall all the visualization have been made over the dataset, and finally t
 
 The dashboard which is created using power-bi is present in the [Walmart.pbix](https://github.com/Vedakeerthi/Walmart-Sales-Analysis/blob/main/Walmart.pbix) file.
 
-The dataset of the walmart store is present in [Walmart.csv](https://github.com/Vedakeerthi/Walmart-Sales-Analysis/blob/main/Walmart.csv) folder.
+The dataset of the walmart store is present in [Walmart.csv](https://github.com/Vedakeerthi/Walmart-Sales-Analysis/blob/main/Walmart.csv) file.
 
 A sample image of the dashboard is stored as [Result.png](https://github.com/Vedakeerthi/Walmart-Sales-Analysis/blob/main/Result.png) image.
 
